@@ -366,7 +366,7 @@ function vowelCounter(string) {
     console.log(`number of vowels = ${vowelCount}`);
 }
 
-    vowelCounter('This is me')
+    vowelCounter('Lorem ipsum whales and more')
       
 
 
